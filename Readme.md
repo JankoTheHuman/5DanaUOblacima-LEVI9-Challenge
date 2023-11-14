@@ -13,14 +13,11 @@ POSTAVKA OKRUŽENJA
 
 ----
 
-- Možda je neophodno podešavanje Python interpretera u PyCharmu nakon je projekat pullovan sa Git-a. Vratiti se na ovo ukoliko je potrebno. To se radi ovako:
+- Možda je neophodno podešavanje Python interpretera u PyCharmu nakon sto je projekat pullovan sa Git-a. Vratiti se na ovo ukoliko je potrebno. To se radi ovako:
 
-1)Idi na "File" > "Settings"
+1)Klikni Add New Interpreter u top-side error pop-upu
 
-2)Navigiraj do "Project: ime_tvog_projekta" > "Python Interpreter."
-
-3)Proveri da li je izabran Python interpreter koji si instalirao. Ako nije, klikni na ikonu zupčanika i izaberi "Add."
-Izaberi "System Interpreter" ili "Virtualenv Environment" ako koristiš virtuelno okruženje.
+2)Navigiraj do mesta instalacije Pythona i pritisni OK, virtuelno okruzenje ce se formirati, nakon cega se mogu skinuti biblioteke prateci uputsva dalje
 
 ---
 BILDOVANJE PROJEKTA
