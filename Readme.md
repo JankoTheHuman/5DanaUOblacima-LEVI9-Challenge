@@ -31,7 +31,7 @@ BILDOVANJE PROJEKTA
 POKRETANJE PROJEKTA
 
 - Otvoriti main.py i kombinacijom dugmadi shift+f10 se pokrece program
-- Nakon toga u bilo kom brosweru otici na http://127.0.0.1:5000/stats/player/<playerFullName>
+- Nakon toga u bilo kom brosweru otici na http://127.0.0.1:5000/stats/player/< playerFullName >
 - playerFullName input je case i whitespace INsensitive
 
 ---
